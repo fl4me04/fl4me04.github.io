@@ -7,23 +7,23 @@ I am a Computer Science student at Bina Nusantara University for now.
 - ✌️ My Favorite Hobby for now is playing music and doing some projects to learn programming languages
 - 👨‍💻 Programming Languages that i used :
 <div align="left">
-  
-<img src="https://img.shields.io/badge/-C-303030?style=flat&logo=c" alt="C Badge">
-<img src="https://img.shields.io/badge/-C++-303030?style=flat&logo=cplusplus" alt="C++" />
-<img src="https://img.shields.io/badge/-CSS3-303030?style=flat&logo=css3&logoColor=1572B6" alt="CSS3" />
-<img src="https://img.shields.io/badge/-Go-303030?style=flat&logo=go&logoColor=00ADD8" alt="Go" />
-<img src="https://img.shields.io/badge/-HTML5-303030?style=flat&logo=html5" alt="HTML5" />
-<img src="https://img.shields.io/badge/-Java-303030?style=flat&logo=java" alt="Java" />
-<img src="https://img.shields.io/badge/-JavaScript-303030?style=flat&logo=javascript" alt="JavaScript" />
-<img src="https://img.shields.io/badge/-Python-303030?style=flat&logo=python" alt="Python" />
-<img src="https://img.shields.io/badge/-TypeScript-303030?style=flat&logo=typescript" alt="TypeScript" />
+
+![C](https://img.shields.io/badge/-C-303030?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-303030?style=flat&logo=cplusplus)
+![CSS](https://img.shields.io/badge/-CSS3-303030?style=flat&logo=css3&logoColor=1572B6)
+![Go](https://img.shields.io/badge/-Go-303030?style=flat&logo=go&logoColor=00ADD8)
+![HTML5](https://img.shields.io/badge/-HTML5-303030?style=flat&logo=html5)
+![Java](https://img.shields.io/badge/-Java-303030?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-303030?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-303030?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-303030?style=flat&logo=typescript)
 
 </div>
 
 - 💾 Database that i used :
 <div align="left">
 
-<img src="https://img.shields.io/badge/-MySQL-303030?style=flat&logo=mysql&logoColor=FFFFFF" alt="MySQL" />
+![MySQL](https://img.shields.io/badge/-MySQL-303030?style=flat&logo=mysql&logoColor=FFFFFF)
 
 </div>
 
@@ -31,12 +31,8 @@ I am a Computer Science student at Bina Nusantara University for now.
 - 📫 You can reach me via :
 <div align="left">
 
-<a href="https://www.linkedin.com/in/shemjl" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://www.instagram.com/shemjl_" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"/>
-</a>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)][linkedin]
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)][instagram]
   
 </div>
 
@@ -61,42 +57,18 @@ _**Click on the title to view the project**_
 My first project in BINUS to fulfill Program Design Method's Final Project. This project represents an online ticket ordering system and was made using HTML, CSS, and Javascript. This project hasn't completed perfectly because the website isn't the same as the prototype.
 
 #### Galleries :
-<table>
-  <tr>
-    <th>HomePage</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/fl4me04/fl4me04.github.io/main/TOX%20ID/HomePage.png" alt="Home" title="Home" width="600">
-    </td>
-  </tr>
-</table>
+| HomePage      |
+| ------------- |
+| ![Home](https://github.com/fl4me04/fl4me04.github.io/blob/main/TOX%20ID/HomePage.png "Home") |
 
-<br/>
+| Movie Page    |
+| ------------- |
+| ![Movie](https://github.com/fl4me04/fl4me04.github.io/blob/main/TOX%20ID/MoviePage.png "Movie") |
 
-<table>
-  <tr>
-    <th>Movie Page</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/fl4me04/fl4me04.github.io/main/TOX%20ID/MoviePage.png" alt="Movie" title="Movie" width="600">
-    </td>
-  </tr>
-</table>
+| Order         |
+| ------------- |
+| ![Order](https://github.com/fl4me04/fl4me04.github.io/blob/main/TOX%20ID/Seat%20Picker%20%26%20Payment.png "Order") |
 
-<br/>
-
-<table>
-  <tr>
-    <th>Order</th>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://raw.githubusercontent.com/fl4me04/fl4me04.github.io/main/TOX%20ID/Seat%20Picker%20%26%20Payment.png" alt="Order" title="Order" width="600">
-    </td>
-  </tr>
-</table>
 
 
 #### Prototype :
@@ -116,34 +88,28 @@ _**Click on the title to view the project**_
 This is a project to fulfill Data Structure's Final Project. This project was used for create a slang words, and search what is the meaning of those words and was made by using C language.
 
 #### Galleries :
-<table>
-  <tr><th>Menu</th></tr>
-  <tr><td><img src="https://raw.githubusercontent.com/fl4me04/fl4me04.github.io/main/Boogle/Menu.png" alt="Menu" width="600"></td></tr>
-</table><br/>
+| Menu                     |
+| ------------------------ |
+| ![Menu](https://github.com/fl4me04/fl4me04.github.io/blob/main/Boogle/Menu.png "Menu") |
 
-<table>
-  <tr><th>New Words</th></tr>
-  <tr><td><img src="https://raw.githubusercontent.com/fl4me04/fl4me04.github.io/main/Boogle/NewWords.png" alt="Word" width="600"></td></tr>
-</table><br/>
+| New Words                |
+| ------------------------ |
+| ![Word](https://github.com/fl4me04/fl4me04.github.io/blob/main/Boogle/NewWords.png "Word") |
 
-<table>
-  <tr><th>Search Words</th></tr>
-  <tr><td><img src="https://raw.githubusercontent.com/fl4me04/fl4me04.github.io/main/Boogle/SearchWords.png" alt="Search" width="600"></td></tr>
-</table><br/>
+| Search Words             |
+| ------------------------ |
+| ![Search](https://github.com/fl4me04/fl4me04.github.io/blob/main/Boogle/SearchWords.png "Search") |
 
-<table>
-  <tr><th>Search Words with Prefix</th></tr>
-  <tr><td><img src="https://raw.githubusercontent.com/fl4me04/fl4me04.github.io/main/Boogle/SearchWithPrefix.png" alt="SearchWord" width="600"></td></tr>
-</table><br/>
+| Search Words with Prefix |
+| ------------------------ |
+| ![SearchWord](https://github.com/fl4me04/fl4me04.github.io/blob/main/Boogle/SearchWithPrefix.png "SearchWord") |
 
-<table>
-  <tr><th>Dictionary</th></tr>
-  <tr><td><img src="https://raw.githubusercontent.com/fl4me04/fl4me04.github.io/main/Boogle/Dictionary.png" alt="Dictionary" width="600"></td></tr>
-</table><br/>
+| Dictionary               |
+| ------------------------ |
+| ![Dictionary](https://github.com/fl4me04/fl4me04.github.io/blob/main/Boogle/Dictionary.png "Dictionary") |
 
-<br />
-<br />
-<br />
+
+
 
 ## [Project 3 : CAteriNgz (HTML, CSS, JS) Project](https://github.com/fl4me04/CAteriNgz)
 _**Click on the title to view the project**_
@@ -155,30 +121,27 @@ _**Click on the title to view the project**_
 This project was made to fulfill Human Computer Interaction's final project. This project represents an online catering service called CAteriNgz that display information, product offered, customer testimonials, and register validation using HTML, CSS, and Javascript languages.
 
 #### Galleries :
-<table>
-  <tr><th>HomePage</th></tr>
-  <tr><td><img src="https://raw.githubusercontent.com/fl4me04/fl4me04.github.io/main/CAteriNgz/HomePage.png" alt="Home" width="600"></td></tr>
-</table><br/>
+| HomePage     |
+| ------------ |
+| ![Home](https://github.com/fl4me04/fl4me04.github.io/blob/main/CAteriNgz/HomePage.png "Home") |
 
-<table>
-  <tr><th>AboutUs Page</th></tr>
-  <tr><td><img src="https://raw.githubusercontent.com/fl4me04/fl4me04.github.io/main/CAteriNgz/AboutUs.png" alt="About" width="600"></td></tr>
-</table><br/>
+| AboutUs Page |
+| ------------ |
+| ![About](https://github.com/fl4me04/fl4me04.github.io/blob/main/CAteriNgz/AboutUs.png "About") |
 
-<table>
-  <tr><th>Testimony</th></tr>
-  <tr><td><img src="https://raw.githubusercontent.com/fl4me04/fl4me04.github.io/main/CAteriNgz/Testimony.png" alt="Testi" width="600"></td></tr>
-</table><br/>
+| Testimony    |
+| ------------ |
+| ![Testi](https://github.com/fl4me04/fl4me04.github.io/blob/main/CAteriNgz/Testimony.png "Testi") |
 
-<table>
-  <tr><th>Product</th></tr>
-  <tr><td><img src="https://raw.githubusercontent.com/fl4me04/fl4me04.github.io/main/CAteriNgz/Product.png" alt="Product" width="600"></td></tr>
-</table><br/>
+| Product      |
+| ------------ |
+| ![Product](https://github.com/fl4me04/fl4me04.github.io/blob/main/CAteriNgz/Product.png "Product") |
 
-<table>
-  <tr><th>Register</th></tr>
-  <tr><td><img src="https://raw.githubusercontent.com/fl4me04/fl4me04.github.io/main/CAteriNgz/Register.png" alt="Register" width="600"></td></tr>
-</table><br/>
+| Register     |
+| ------------ |
+| ![Register](https://github.com/fl4me04/fl4me04.github.io/blob/main/CAteriNgz/Register.png "Register") |
+
+
 
 #### Prototype :
 https://www.figma.com/design/AVGhoDr2gv8nFOoZVMkNoR/CAteriNgz?node-id=0-1&t=075ezQ47676HYL4Z-1
@@ -197,24 +160,19 @@ _**Click on the title to view the project**_
 Dark Knight was made to complete my Object Oriented Programming's Assignment. This Project was made using Java Language that implements polymorphism, abstraction, and interface. If you start the project, it will ask you to input name and than it will bring you to a battle against either a thief or goblin. The damage will be random and there's a chance to get legendary items. But if you fight againts a thief, your item can be robbed 😁. Depends on your luck AHAHAHA
 
 #### Galleries :
-<table>
-  <tr><th>Menu</th></tr>
-  <tr><td><img src="https://raw.githubusercontent.com/fl4me04/fl4me04.github.io/main/Dark%20Knight/Menu.png" alt="Menu" width="600"></td></tr>
-</table><br/>
+| Menu   |
+| ------ |
+| ![Menu](https://github.com/fl4me04/fl4me04.github.io/blob/main/Dark%20Knight/Menu.png "Menu") |
 
-<table>
-  <tr><th>Battle</th></tr>
-  <tr><td><img src="https://raw.githubusercontent.com/fl4me04/fl4me04.github.io/main/Dark%20Knight/Battle.png" alt="Battle" width="600"></td></tr>
-</table><br/>
+| Battle |
+| ------ |
+| ![Battle](https://github.com/fl4me04/fl4me04.github.io/blob/main/Dark%20Knight/Battle.png "Battle") |
 
-<table>
-  <tr><th>Result</th></tr>
-  <tr><td><img src="https://raw.githubusercontent.com/fl4me04/fl4me04.github.io/main/Dark%20Knight/Result.png" alt="Result" width="600"></td></tr>
-</table><br/>
+| Result |
+| ------ |
+| ![Result](https://github.com/fl4me04/fl4me04.github.io/blob/main/Dark%20Knight/Result.png "Result") |
 
-<br />
-<br />
-<br />
+
 
 ## [Project 5 : Xperimall (React Native, Golang, MySQL) Project](https://github.com/fl4me04/xperimall)
 _**Click on the title to view the project**_
@@ -230,57 +188,43 @@ _**Click on the title to view the project**_
 This is my first big project to complete my Software Engineer and Agile Software Development's final project. On this project, tech stack that we are using is react native for the front-end, golang for the back-end, and mySql for the database. Xperimall is a mobile application that helps users to plan their activities in a mall, filtering from their budget. (This apps still on progress)
 
 #### Galleries :
-<table>
-  <tr><th>HomePage</th></tr>
-  <tr><td><img src="https://raw.githubusercontent.com/fl4me04/fl4me04.github.io/main/Xperimall/HomePage.png" alt="Home" width="600"></td></tr>
-</table><br/>
+| HomePage     |
+| ------------ |
+| ![Home](https://github.com/fl4me04/fl4me04.github.io/blob/main/Xperimall/HomePage.png "Home") |
 
-<table>
-  <tr><th>Mall Directory</th></tr>
-  <tr><td><img src="https://raw.githubusercontent.com/fl4me04/fl4me04.github.io/main/Xperimall/Mall%20Directory.png" alt="Directory" width="600"></td></tr>
-</table><br/>
+| Mall Directory |
+| ------------ |
+| ![Directory](https://github.com/fl4me04/fl4me04.github.io/blob/main/Xperimall/Mall%20Directory.png "Directory") |
 
-<table>
-  <tr><th>Mall Map</th></tr>
-  <tr><td><img src="https://raw.githubusercontent.com/fl4me04/fl4me04.github.io/main/Xperimall/Mall%20Map.png" alt="Map" width="600"></td></tr>
-</table><br/>
+| Mall Map    |
+| ------------ |
+| ![Map](https://github.com/fl4me04/fl4me04.github.io/blob/main/Xperimall/Mall%20Map.png "Map") |
 
-<table>
-  <tr><th>New Tenant</th></tr>
-  <tr><td><img src="https://raw.githubusercontent.com/fl4me04/fl4me04.github.io/main/Xperimall/New%20Tenant.png" alt="Tenant" width="600"></td></tr>
-</table><br/>
+| New Tenant      |
+| ------------ |
+| ![Tenant](https://github.com/fl4me04/fl4me04.github.io/blob/main/Xperimall/New%20Tenant.png "Tenant") |
 
-<table>
-  <tr><th>Promo and Discount</th></tr>
-  <tr><td><img src="https://raw.githubusercontent.com/fl4me04/fl4me04.github.io/main/Xperimall/Promo%20%26%20Discount%20List.png" alt="Promo" width="600"></td></tr>
-  <tr><td><img src="https://raw.githubusercontent.com/fl4me04/fl4me04.github.io/main/Xperimall/Promo%20and%20Discount.png" alt="Discount" width="600"></td></tr>
-</table><br/>
+| Promo and Discount     |
+| ------------ |
+| ![Promo](https://github.com/fl4me04/fl4me04.github.io/blob/main/Xperimall/Promo%20%26%20Discount%20List.png "Promo") |
+| ![Discount](https://github.com/fl4me04/fl4me04.github.io/blob/main/Xperimall/Promo%20and%20Discount.png "Discount") |
 
-<table>
-  <tr><th>History</th></tr>
-  <tr><td><img src="https://raw.githubusercontent.com/fl4me04/fl4me04.github.io/main/Xperimall/History.png" alt="History" width="600"></td></tr>
-</table><br/>
+| History      |
+| ------------ |
+| ![History](https://github.com/fl4me04/fl4me04.github.io/blob/main/Xperimall/History.png "History") |
 
-<table>
-  <tr><th>Finance Tracker</th></tr>
-  <tr><td><img src="https://raw.githubusercontent.com/fl4me04/fl4me04.github.io/main/Xperimall/Finance%20Tracker.png" alt="Tracker" width="600"></td></tr>
-</table><br/>
+| Finance Tracker      |
+| ------------ |
+| ![Tracker](https://github.com/fl4me04/fl4me04.github.io/blob/main/Xperimall/Finance%20Tracker.png "Tracker") |
 
-<table>
-  <tr><th>Authentication Page</th></tr>
-  <tr><td><img src="https://raw.githubusercontent.com/fl4me04/fl4me04.github.io/main/Xperimall/Authentication%20Page.png" alt="Authentication" width="600"></td></tr>
-</table><br/>
+| Authentication Page      |
+| ------------ |
+| ![Authentication](https://github.com/fl4me04/fl4me04.github.io/blob/main/Xperimall/Authentication%20Page.png "Authentication") |
 
-<table>
-  <tr><th>Activity Planner</th></tr>
-  <tr><td><img src="https://raw.githubusercontent.com/fl4me04/fl4me04.github.io/main/Xperimall/Activity%20Planner.png" alt="Planner" width="600"></td></tr>
-</table><br/>
+| Activity Planner      |
+| ------------ |
+| ![Planner](https://github.com/fl4me04/fl4me04.github.io/blob/main/Xperimall/Activity%20Planner.png "Planner") |
 
-#### Prototype :
-https://www.figma.com/design/cZ9TTkWqHLHYbMUVhvkocu/Xperimall-Prototyping?node-id=0-1&p=f
 
-<br />
-<br />
-<br />
 
 ## Thanks for your Attention 🙌!
