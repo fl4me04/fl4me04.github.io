@@ -37,3 +37,17 @@ I am a Computer Science student at Bina Nusantara University for now.
 
 [linkedin]: https://www.linkedin.com/in/shemjl
 [instagram]: https://instagram.com/shemjl_
+
+# Portofolio of fl4me04
+## [Project 1 : TOX ID (HTML, CSS, JS) Project](https://github.com/fl4me04/TOXid)
+_**Click on the title to view the project**_
+
+#### Created By :
+**Shem Josh Lowell**
+
+#### Details :
+My first project in BINUS to fulfill Program Design Method's Final Project. This project represents an online ticket ordering system and was made using HTML, CSS, and Javascript. This project hasn't completed perfectly because the website isn't the same as the prototype.
+
+#### Galleries :
+| HomePage  |
+|-----------|
