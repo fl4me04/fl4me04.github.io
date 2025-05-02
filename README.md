@@ -9,6 +9,7 @@ I am a Computer Science student at Bina Nusantara University for now.
 <div align="left">
   
 ![C](https://img.shields.io/badge/-C-303030?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-303030?style=flat&logo=cplusplus)
 ![CSS](https://img.shields.io/badge/-CSS3-303030?style=flat&logo=css3&logoColor=1572B6)
 ![Go](https://img.shields.io/badge/-Go-303030?style=flat&logo=go&logoColor=00ADD8)
 ![HTML5](https://img.shields.io/badge/-HTML5-303030?style=flat&logo=html5)
